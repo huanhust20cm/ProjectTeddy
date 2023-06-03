@@ -1,0 +1,2 @@
+D:\teddy\ProjectTeddy\MemProject\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
+D:\teddy\ProjectTeddy\MemProject\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
